@@ -5,12 +5,13 @@ LeetCode solutions managed by iq-leetbuddy
 
 <!-- iq-leetbuddy:LeetCode:start -->
 <details open>
-<summary><b>LeetCode</b> · 4 문제</summary>
+<summary><b>LeetCode</b> · 5 문제</summary>
 
 | # | 제목 | 난이도 | 언어 | 풀이 일자 |
 |---|---|---|---|---|
 | 0001 | [Two Sum](LeetCode/0001-two-sum/) | Easy | cpp, java | 2026-05-13 |
 | 0002 | [Add Two Numbers](LeetCode/0002-add-two-numbers/) | Medium | cpp | 2026-05-12 |
+| 3 | [Longest Substring Without Repeating Characters](LeetCode/0003-longest-substring-without-repeating-characters/) | Medium | cpp | 2026-05-18 |
 | 0007 | [Reverse Integer](LeetCode/0007-reverse-integer/) | Medium | java | 2026-05-12 |
 | 0094 | [Binary Tree Inorder Traversal](LeetCode/0094-binary-tree-inorder-traversal/) | Easy | cpp | 2026-05-12 |
 
